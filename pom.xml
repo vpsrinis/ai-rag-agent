@@ -8,11 +8,11 @@
 		<version>3.4.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>ttn.springai</groupId>
-	<artifactId>semantic-search</artifactId>
+	<groupId>com.springai</groupId>
+	<artifactId>ai-rag-agent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>semantic-search</name>
-	<description>Semantic Search with PostgreSQL as Vector DB</description>
+	<name>ai-rag-agent</name>
+	<description>ai-rag-agent with PostgreSQL as Vector DB</description>
 	<url/>
 	<licenses>
 		<license/>
